@@ -148,7 +148,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "browser-sync": "^2.9.12",
     "chunk-manifest-webpack-plugin": "^1.1.2",
-    "commitizen": "^2.9.6",
+    "commitizen": "^4.3.2",
     "cz-freecodecamp": "^1.0.1",
     "del": "^2.2.0",
     "eslint": "^4.10.0",
